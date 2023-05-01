@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "freertos.h": "c",
+    "task.h": "c",
+    "sdkconfig.h": "c",
+    "gpio.h": "c"
+  }
+}
